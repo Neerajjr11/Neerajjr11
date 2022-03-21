@@ -28,8 +28,8 @@
 <table>
   <tr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neerajjr11&show_icons=true&locale=en" alt="neerajjr11" /></p>
+<td><img src="https://github-readme-stats.vercel.app/api?username=neerajjr11&show_icons=true&locale=en" alt="neerajjr11" /></td>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neerajjr11&" alt="neerajjr11" /></p>
+<td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neerajjr11&" alt="neerajjr11" /></td>
      </tr>
 </table>
