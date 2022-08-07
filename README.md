@@ -44,6 +44,6 @@
 
 <br/>
 
-https://activity-graph.herokuapp.com/graph?username=Neerajjr11&bg_color=141321&color=d8387c&line=a8fcf5&point=d8387c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href=https://activity-graph.herokuapp.com/graph?username=Neerajjr11&bg_color=141321&color=d8387c&line=a8fcf5&point=d8387c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)></a>
 
 <br/>
