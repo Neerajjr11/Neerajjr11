@@ -34,11 +34,7 @@
 ![](https://raw.githubusercontent.com/Neerajjr11/github-stats/master/generated/languages.svg#gh-dark-mode-only) -->
 
 </p> 
-<br/>
 
-<a [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Neerajjr11&bg_color=141321&color=4c9e95&line=d83a7c&point=a8fdf6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)</a>
-
-<br/>
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Neerajjr11&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
@@ -48,6 +44,6 @@
 
 <br/>
 
-<a [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Neerajjr11&bg_color=141321&color=4c9e95&line=d83a7c&point=a8fdf6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)</a>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Neerajjr11&bg_color=141321&color=4c9e95&line=d83a7c&point=a8fdf6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
