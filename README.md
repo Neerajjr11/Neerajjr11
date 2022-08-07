@@ -36,7 +36,7 @@
 </p> 
 <br/>
 
-<a [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Neerajjr11&bg_color=141321&color=4c9e95&line=d83a7c&point=a8fdf6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) /></a>
+<a [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Neerajjr11&bg_color=141321&color=4c9e95&line=d83a7c&point=a8fdf6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)</a>
 
 <br/>
 <table>
@@ -45,3 +45,9 @@
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Neerajjr11&theme=radical" alt="Neerajjr11" /></td>
    </tr>
 </table>
+
+<br/>
+
+<a [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Neerajjr11&bg_color=141321&color=4c9e95&line=d83a7c&point=a8fdf6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)</a>
+
+<br/>
