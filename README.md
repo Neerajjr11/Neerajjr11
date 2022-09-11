@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **neerajjm12345@gmail.com**
 
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sVo6ucacNtuH3hWiTMdRWiARPDjUJyze/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/neerajjr11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="neerajjr11" height="30" width="40" /></a>
