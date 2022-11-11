@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Neeraj J Manurkar</h1>
 <h3 align="center">CSE Student, VIT Chennai</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajjr11&label=Profile%20views&color=0e75b6&style=flat" alt="neerajjr11" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neerajjr11" alt="neerajjr11" /></a> </p>
+<table>
+  <tr>
+    <td><img src="https://komarev.com/ghpvc/?username=neerajjr11&label=Profile%20views&color=0e75b6&style=flat" alt="neerajjr11" /></td>
+    <td><a href="https://wakatime.com/@4bc7eaf3-9ef4-4457-b9d4-ba29a729fa6a"><img src="https://wakatime.com/badge/user/4bc7eaf3-9ef4-4457-b9d4-ba29a729fa6a.svg" alt="Total time coded since Feb 4 2022" /></a></td>
+  </tr>
+</table>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neerajjr11&theme=onedark&row=1&column=7" alt="neerajjr11" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning,React,FastAPI,Data Science**
 
