@@ -48,6 +48,15 @@
 </table>
 
 <br/>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Neerajjr11&bg_color=141321&color=d8387c&line=a8fcf5&point=d8387c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br/>
+<table> 
+  <tr>
+    <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neerajjr11&theme=monokai"  display=block width=100% height=auto alt="1"></p>
+   </tr>
+</table>
+<table> 
+   <tr>
+      <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Neerajjr11&bg_color=141321&color=d8387c&line=a8fcf5&point=d8387c&area=true&hide_border=true" display=block width=100% height=auto alt="2"></p>
+  </tr>
+</table>
+<!--[!(https://activity-graph.herokuapp.com/graph?username=Neerajjr11&bg_color=141321&color=d8387c&line=a8fcf5&point=d8387c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/> -->
