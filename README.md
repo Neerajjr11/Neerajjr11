@@ -8,9 +8,9 @@
 </table>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neerajjr11&theme=onedark&row=1&column=7" alt="neerajjr11" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning,React,FastAPI,Data Science**
+- 🌱 I’m currently learning **Go,Docker,TypeScript**
 
-- 💬 Ask me about **NodeJs,Mongodb**
+- 💬 Ask me about **NodeJs,Mongodb,Machine Learning, NLP**
 
 - 📫 How to reach me **neerajjm12345@gmail.com**
 
