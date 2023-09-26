@@ -6,7 +6,7 @@
     <td><a href="https://wakatime.com/@4bc7eaf3-9ef4-4457-b9d4-ba29a729fa6a"><img src="https://wakatime.com/badge/user/4bc7eaf3-9ef4-4457-b9d4-ba29a729fa6a.svg" alt="Total time coded since Feb 4 2022" /></a></td>
   </tr>
 </table>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neerajjr11&theme=onedark&row=1&column=7" alt="neerajjr11" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neerajjr11&theme=onedark&row=1&column=7" alt="neerajjr11" /></a> </p> -->
 
 - 🌱 I’m currently learning **Go,Docker,TypeScript**
 
@@ -43,7 +43,7 @@
 <table align="center" style="margin: 0px auto;" >
   <tr>
 <!--     <td><img src="https://github-readme-stats.vercel.app/api?username=Neerajjr11&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td> -->
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Neerajjr11&theme=radical" alt="Neerajjr11" /></td>
+<!--     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Neerajjr11&theme=radical" alt="Neerajjr11" /></td> -->
    </tr>
 </table>
 
