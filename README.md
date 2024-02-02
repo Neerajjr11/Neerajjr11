@@ -42,8 +42,8 @@
 
 <table align="center" style="margin: 0px auto;" >
   <tr>
-<!--     <td><img src="https://github-readme-stats.vercel.app/api?username=Neerajjr11&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td> -->
-<!--     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Neerajjr11&theme=radical" alt="Neerajjr11" /></td> -->
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Neerajjr11&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Neerajjr11&theme=radical" alt="Neerajjr11" /></td>
    </tr>
 </table>
 
@@ -55,8 +55,8 @@
 </table>
 <table> 
    <tr>
-      <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Neerajjr11&bg_color=141321&color=d8387c&line=a8fcf5&point=d8387c&area=true&hide_border=true" display=block width=100% height=auto alt="2"></p>
+<!--       <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Neerajjr11&bg_color=141321&color=d8387c&line=a8fcf5&point=d8387c&area=true&hide_border=true" display=block width=100% height=auto alt="2"></p> -->
   </tr>
 </table>
-<!--[!(https://activity-graph.herokuapp.com/graph?username=Neerajjr11&bg_color=141321&color=d8387c&line=a8fcf5&point=d8387c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [!(https://activity-graph.herokuapp.com/graph?username=Neerajjr11&bg_color=141321&color=d8387c&line=a8fcf5&point=d8387c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/> -->
